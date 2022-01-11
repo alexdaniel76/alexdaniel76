@@ -9,4 +9,5 @@ Now I am learning the Python language, it is beautiful and applicable in many ar
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 
-<a href="https://git-scm.com" target="_blank"><img align="left" alt="Git" height ="42px" src="https://git-scm.com/images/logo@2x.png"></a>
+<a href="https://git-scm.com" target="_blank"><img align="left" alt="Git" height ="42px" src="https://github.com/alexdaniel76/alexdaniel76/blob/main/gifs/git.svg"></a>
+
